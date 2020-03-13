@@ -1,4 +1,4 @@
 git is a version control system.
 git is free software.
 2020年03月13日00:11:53
-create a new branch is quick.
+create a new branch is quick is simple AND simple.
